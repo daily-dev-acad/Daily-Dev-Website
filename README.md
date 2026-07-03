@@ -34,4 +34,4 @@ To preview or audit the application locally on your computer or mobile developme
 
 1. Clone this repository to your device:
    ```bash
-   git clone [https://github.com/daily-dev-acad/Daily-Dev-Website.git](https://github.com/daily-dev-acad/Daily-Dev-Website.git)
+   git clone https://github.com/daily-dev-acad/Daily-Dev-Website.git
